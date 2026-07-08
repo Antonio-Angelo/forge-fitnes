@@ -3,7 +3,7 @@
 
 Uma plataforma web para gerenciamento de academia, permitindo o cadastro de alunos, treinos e acompanhamento de desempenho.
 
-![Capa do Projeto](./public/images/capa.png)
+![Capa do Projeto](./public/images/Biblioteca.png)
 
 ## ✨ Funcionalidades
 
