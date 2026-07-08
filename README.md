@@ -54,6 +54,6 @@ index.js
 
 Antônio Ângelo de Carvalho
 
-LinkedIn: https://linkedin.com/in/Antônio Ângelo
+[LinkedIn: https://linkedin.com/in/Antônio Ângelo](https://www.linkedin.com/in/antônio-ângelo-ba6a4b35a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 [GitHub: https://github.com/seu-usuario](https://github.com/Antonio-Angelo/forge-fitnes/edit/main/README.md)
