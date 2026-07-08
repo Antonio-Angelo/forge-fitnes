@@ -22,15 +22,6 @@ Uma plataforma web para gerenciamento de academia, permitindo o cadastro de alun
 - JavaScript
 - MySQL (ou o banco que estiver usando)
 
-## 📷 Demonstração
-
-### Página Inicial
-
-![Home](./public/images/home.png)
-
-### Dashboard
-
-![Dashboard](./public/images/dashboard.png)
 
 ## 🚀 Como executar
 
@@ -61,8 +52,8 @@ index.js
 
 ## 👨‍💻 Autor
 
-Seu Nome
+Antônio Ângelo de Carvalho
 
-LinkedIn: https://linkedin.com/in/seu-perfil
+LinkedIn: https://linkedin.com/in/Antônio Ângelo
 
-GitHub: https://github.com/seu-usuario
+[GitHub: https://github.com/seu-usuario](https://github.com/Antonio-Angelo/forge-fitnes/edit/main/README.md)
